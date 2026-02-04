@@ -18,9 +18,6 @@ Doctors can:
 - Confirm, adjust, or override AI diagnosis
 - Send feedback and follow-up to patients
 
-> ⚠️ **Disclaimer:**  
-> This system is designed for educational and decision-support purposes only and does not replace professional medical consultation.
-
 ---
 
 ## 🧠 AI Modules
